@@ -1,0 +1,6 @@
+.next/cache
+.next/server
+.next/static/development
+.vercel/output/static/_worker.js.map
+node_modules
+*.log
